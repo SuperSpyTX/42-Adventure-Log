@@ -9,7 +9,7 @@ tags: [first_post]
 
 Welcome to my new blog, or the 42 Adventure Log!
 
-This blog has taken ~a couple hours~4 hours to make, but finally I got something to work.
+This blog has taken ~~a couple hours~~4 hours to make, but finally I got something to work.
 
 I've temporarily redirected the main domain over to here because there is a ton of work that needs to be done in order to make jkrau.se ideal to blog on again (WordPress -> Custom platform or Jekyll)
 
