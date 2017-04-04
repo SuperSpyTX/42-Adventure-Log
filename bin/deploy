@@ -15,7 +15,7 @@ fi
 git checkout -b master
 
 # Build site.
-~/node_modules/bower install
+~/node_modules/.bin/bower install
 bundle exec jekyll build
 
 # Delete and move files.
@@ -30,7 +30,7 @@ git push -f -q origin master
 
 # Move back to previous branch.
 git checkout -
-~/node_modules/bower install
+~/node_modules/.bin/bower install
 
 echo "Deployed Successfully!"
 
